@@ -1,0 +1,60 @@
+/* Project: 01 Front-end Developer Nanodegree - Author: Miguel Sánchez */
+body {
+	background: #aaa;
+}
+
+a {
+	color: #b38f2d;
+}
+
+a:hover {
+	color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font: 600 'Titillium Web', sans-serif;
+}
+
+h4 {
+	color: #b38f2d;
+}
+
+img {
+	border: 1px solid #333;
+}
+
+.btn-portfolio {
+    color: #fff;
+    background-color: #b38f2d;
+    border-color: #c79f27;
+}
+
+
+/* Header */
+header {
+	margin-top: 1em;
+}
+
+
+/* Content */
+.container {
+	background: #fff;
+	margin: 1em auto;
+}
+
+.main-img {
+	width: 100vw;
+}
+
+.nav {
+	margin-bottom: 1em;
+}
+
+
+/* Footer */
+footer {
+	color: #aaa;
+}
